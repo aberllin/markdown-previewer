@@ -7,7 +7,6 @@ const renderMarkdown = () => {
 
   const parsedMarkdown = marked(editorValue);
   const preview = document.getElementById("preview");
-  console.log("parsedMarkdown", parsedMarkdown);
   preview.innerHTML =
     parsedMarkdown === "" ? "💅 Gimme some markdown 💅" : parsedMarkdown;
 };
