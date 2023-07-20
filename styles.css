@@ -45,7 +45,8 @@ body {
   background: #ffc8dd;
 }
 
-.fullscreen {
+#editor-fullscreen,
+#preview-fullscreen {
   background: none;
   border: none;
   color: white;
