@@ -1,2 +1,3 @@
 # markdown-previewer
-Moving forward with my favourite freecondecamp.org . This is introduce Markdown previewer - nice and simple.
+
+Moving forward with my favorite [freecondecamp.org](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer). This time introduce the Markdown previewer - nice and simple.
